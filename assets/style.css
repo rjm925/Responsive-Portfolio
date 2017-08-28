@@ -422,6 +422,11 @@ footer {
 		bottom: 210px;
 	}
 
+	#sidebar {
+		left: 13px;
+		top: 650px;
+	}
+
 	#portbar {
 		width: 600px;
 		top: 1925px;
